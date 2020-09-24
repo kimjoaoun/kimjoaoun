@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**kimjoaoun/kimjoaoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">Political Scientist, Data Scientist, R developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjoaoun" alt="kimjoaoun" /> </p>
+
+- 🔭 I’m currently working as a Research Assistant at Emory University's Department of Political Science.
+
+- 🌱 I’m currently learning **Rust**
+
+- 📝 I regulary write articles on [alphabetsigma.netlify.app](https://alphabetsigma.netlify.app/)
+
+- 📫 How to reach me **joaopsantos@protonmail.ch**
+
+- 😄 Pronouns: He/Him (EN) - Ele/Dele (PT)
+
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimjoaoun&show_icons=true" alt="kimjoaoun" /></p>
+
+
+<p align="center">
+<a href="https://twitter.com/kimjoaoun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kimjoaoun" height="30" width="30" /></a>
