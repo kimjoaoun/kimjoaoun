@@ -10,7 +10,7 @@
 
 - 📝 I regulary write articles on [alphabetsigma.netlify.app](https://alphabetsigma.netlify.app/)
 
-- 📫 How to reach me **joaopsantos@protonmail.ch**
+- 📫 How to reach me **joaopsantos (at) protonmail.ch**
 
 - 😄 Pronouns: He/Him (EN) - Ele/Dele (PT)
 
