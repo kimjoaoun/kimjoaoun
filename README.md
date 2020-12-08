@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Research Assistant at Emory University's Department of Political Science.
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Elixir**
 
 - 📝 I regulary write articles on [alphabetsigma.netlify.app](https://alphabetsigma.netlify.app/)
 
