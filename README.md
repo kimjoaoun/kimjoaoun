@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjoaoun" alt="kimjoaoun" /> </p>
 
-- 🔭 I’m currently working as a Research Assistant at Emory University's Department of Political Science.
+- 🔭 I’m currently working as a Data Engineering Intern at [https://www.bancodasdiaristas.com/](Comadre).
 
 - 🌱 I’m currently learning **Elixir**
 
