@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjoaoun" alt="kimjoaoun" /> </p>
 
-- 🔭 I’m currently working as a Data Engineering Intern at [Comadre](https://www.bancodasdiaristas.com/).
+- 🔭 I’m currently working as a Data Engineer at [Comadre](https://www.bancodasdiaristas.com/).
 
 - 🌱 I’m currently learning **Elixir**
 
