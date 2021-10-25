@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Elixir**
 
-- 📝 I regulary write articles on [alphabetsigma.netlify.app](https://alphabetsigma.netlify.app/)
+- 📝 I regularly write articles on [alphabetsigma.netlify.app](https://alphabetsigma.netlify.app/)
 
 - 📫 How to reach me **joaopsantos (at) protonmail (dot) ch**
 
