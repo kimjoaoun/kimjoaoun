@@ -1,10 +1,10 @@
 
 
-<h3 align="center">Political Scientist, Data Scientist, R developer</h3>
+<h3 align="center">Political Scientist, Data Engineer, R developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjoaoun" alt="kimjoaoun" /> </p>
 
-- 🔭 I’m currently working as a Data Engineer at [Conta Split](https://github.com/conta-split) | R, Python, Terraform, PostgreSQL and Serverless Framework.
+- 🔭 I’m currently working as a Data and Operations Engineer at [Conta Split](https://github.com/conta-split) | R, Python, Terraform, PostgreSQL and Serverless Framework.
 
 - 🌱 I’m currently learning **Elixir**
 
