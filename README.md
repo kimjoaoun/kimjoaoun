@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjoaoun" alt="kimjoaoun" /> </p>
 
-- 🔭 I’m currently working as a Data and Operations Engineer at [Conta Split](https://github.com/conta-split) | R, Python, Terraform, PostgreSQL and Serverless Framework.
+- 🔭 I’m currently working as a Data and Operations Engineer at [Cumbuca](https://github.com/appcumbuca) | R, Python, Terraform, PostgreSQL and Serverless Framework.
 
 - 🌱 I’m currently learning **Elixir**
 
